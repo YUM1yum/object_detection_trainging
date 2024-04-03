@@ -15,6 +15,7 @@ class Account:
 
     def print_balance(self):
         print("잔액:", self.balance)
+        print("똥마려워")
 
 acc1 = Account("Sarah", 50000)
 acc2 = Account("Jone", 30000)
