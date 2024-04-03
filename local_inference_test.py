@@ -17,6 +17,7 @@ from io import StringIO
 from PIL import Image
 from object_detection.utils import ops as utils_ops
 
+print("Hello, world!")
 
 if __name__ == "__main__":
     import argparse
