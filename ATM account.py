@@ -1,3 +1,5 @@
+# It's beautiful day!! Don't worry!!
+
 class Account:
 
     def __init__(self, name, amount):
